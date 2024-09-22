@@ -15,7 +15,12 @@ Oh, and did I mention? You’ve only got **150 milliseconds** to make your move.
 
 Knights Isolation is a fancy variation of the classic Isolation game. In this version, your knight moves like a real **chess knight** (that tricky "L" shape 🐴). You can move to any open cell that's two rows and one column, or two columns and one row away from the current position. Each move blocks off cells, shrinking your options like a ticking time bomb. The first player to run out of moves? They lose. 👎 The winner? Well, they're the new board king/queen! 👑 
 
-![viz](https://github.com/user-attachments/assets/35e780bb-9414-4a09-ae67-9cfb4beb6fd7)
+<p align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35e780bb-9414-4a09-ae67-9cfb4beb6fd7" alt="viz" />
+  <br />
+  <strong>NOTE:</strong> The project is played on a 9x11 grid instead of a 7x7 grid.
+</p>
 
 Let's get started!
 
